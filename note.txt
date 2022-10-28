@@ -1,0 +1,5 @@
+các thư viện sử dụng:
+- react bootstrap
+- font awesome bootstrap 
+- react share
+https://www.npmjs.com/package/react-share
